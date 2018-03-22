@@ -5,7 +5,6 @@
  */
 package isikukoodgui;
 
-import java.util.Calendar;
 import java.util.Random;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
